@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://benjamin-rouanet.github.io/mon-cv/sitemap.xml
